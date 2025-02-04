@@ -4,6 +4,10 @@ A modern web application for managing creative studio projects and automating so
 
 The website is hosted at `https://dager-studios-portfolio.lovable.app/`
 
+David login:
+user: david.nordstromm@gmail.com
+pass: hej1234!
+
 ## Features
 
 - Project portfolio management
